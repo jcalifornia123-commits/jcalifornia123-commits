@@ -14,6 +14,12 @@ I built a platform connecting training, recovery, academic workload, and subject
 
 The [public demo](https://jack-codet-human-performance.vercel.app) runs on synthetic data. It includes an authored AI-coach walkthrough; it does not connect visitors’ accounts or run live LLM inference. [Architecture](https://jack-codet-human-performance.vercel.app/integrations/) · [Data and methodology](https://jack-codet-human-performance.vercel.app/data/)
 
+### Rhyka — restaurant payments
+
+I’m working with the Rhyka team on restaurant payments, including full-stack/API work and physical prototyping. My contributions include creating STL files, contacting suppliers in China, and talking with restaurant owners. I’m also a collaborator on the team’s private GitHub repository.
+
+[Visit Rhyka](https://www.rhyka.com) · [My project overview](https://jack-codet-portfolio.vercel.app/#rhyka)
+
 ### Client portal
 
 During my Product & Technology internship at Thunderbird Labs, I built and handed off a client portal for project tracking, billing visibility, and communication. The [public repository](https://github.com/jcalifornia123-commits/client-portal) demonstrates the client interface in Next.js using sample project records.
@@ -25,7 +31,6 @@ An [offline personal archive](https://github.com/jcalifornia123-commits/compound
 ## What I’m working on
 
 - **Everly — Product Growth Associate:** onboarding early users and helping implement feature and usability changes with founders and developers.
-- **Rhyka:** restaurant payments work spanning STL prototypes, full-stack/API implementation, supplier outreach, and conversations with restaurant owners. In progress.
 
 ## Experience beyond the public repositories
 
