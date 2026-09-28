@@ -16,7 +16,7 @@ The [public demo](https://jack-codet-human-performance.vercel.app) runs on synth
 
 ### Client portal
 
-During my Product & Technology internship at Thunderbird Labs, I built and handed off a client portal for project tracking, billing visibility, and communication. The [public repository](https://github.com/jcalifornia123-commits/client-portal) contains a Next.js demonstration with sample projects; it should not be read as the complete company implementation.
+During my Product & Technology internship at Thunderbird Labs, I built and handed off a client portal for project tracking, billing visibility, and communication. The [public repository](https://github.com/jcalifornia123-commits/client-portal) demonstrates the client interface in Next.js using sample project records.
 
 ### Compound Your Wins
 
@@ -29,6 +29,6 @@ An [offline personal archive](https://github.com/jcalifornia123-commits/compound
 
 ## Experience beyond the public repositories
 
-At Thunderbird Labs, I also worked on reusable starter repositories, development guidelines, codebase indexing, and connecting production error monitoring to Linear. These are résumé contributions, not claims that every implementation is available in this account.
+At Thunderbird Labs, I also worked on reusable starter repositories, development guidelines, codebase indexing, and connecting production error monitoring to Linear. The internship combined implementation work with learning how the team builds and supports client projects.
 
 I’m looking for internships in full-stack engineering and wearable/health technology. Outside the code: swimming, cycling, running, and surfing.
